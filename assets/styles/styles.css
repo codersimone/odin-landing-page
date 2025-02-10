@@ -134,6 +134,32 @@ button {
 }
 
 /* Quote section styles */
+.quote {
+  flex: 1;
+  gap: 8px;
+  color: #1F2937;
+  background-color: #E5E7EB;
+}
+
+.quote-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: end;
+  padding: 100px 12%;
+}
+
+.quote-text {
+  text-align: start;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937bf;
+}
+
+.quote-author {
+  font-weight: 800;
+}
 
 /* Call to action section styles */
 
