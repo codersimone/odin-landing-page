@@ -32,9 +32,9 @@ The web page uses **Flexbox** for layout, ensuring that all elements are flexibl
 
 - **Main Image**: The main image used in the "Hero Section" is from [Pexels](https://www.pexels.com/), courtesy of Valentin Antonucci.
 - **Icons**: The icons used in the "Information Section" are from [Iconfinder](https://www.iconfinder.com/), with credits to the respective authors:
-  1. Icon 1: "Notebook with travel routes" by Nova Patriot.
-  2. Icon 2: "Map with routes" by Haseba Studio.
-  3. Icon 3: "Offline access" by Benjamin STAWARZ.
-  4. Icon 4: "Linking accounts" by emkamal kamaluddin.
+1. Icon 1: "Notebook with travel routes" by Nova Patriot.
+2. Icon 2: "Map with routes" by Haseba Studio.
+3. Icon 3: "Offline access" by Benjamin STAWARZ.
+4. Icon 4: "Linking accounts" by emkamal kamaluddin.
 
 ## Рublished Website
