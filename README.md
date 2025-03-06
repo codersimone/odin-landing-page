@@ -38,3 +38,4 @@ The web page uses **Flexbox** for layout, ensuring that all elements are flexibl
 4. Icon 4: "Linking accounts" by emkamal kamaluddin.
 
 ## Рublished Website
+https://codersimone.github.io/odin-landing-page/
