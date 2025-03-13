@@ -1,4 +1,6 @@
-body {
+.body {
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
   font-family: Roboto, sans-serif;
   font-optical-sizing: auto;
@@ -7,7 +9,13 @@ body {
   background-color: #1F2937;
 }
 
-button {
+.main-container {
+  /* Press the footer to the bottom of the page */
+  flex: 1;
+}
+
+.main-button,
+.action-button {
   padding: 2px 28px;
   font-weight: 600;
   color: #F9FAF8;
@@ -15,8 +23,11 @@ button {
   border-radius: 6px;
 }
 
-section,
-footer {
+.hero,
+.information,
+.quote,
+.action,
+.footer {
   display: flex;
   justify-content: center;
   /* Stretch the elements to the width of the screen */
@@ -205,7 +216,7 @@ footer {
 
 /* Footer styles */
 .footer {
-  margin: 20px 0;
+  padding: 20px 0;
   text-align: center;
   color: #E5E7EB;
 }
