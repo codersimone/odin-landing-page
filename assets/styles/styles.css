@@ -179,8 +179,6 @@
 
 /* Action section styles */
 .action {
-  /* Press the footer to the bottom of the page - DOES NOT WORK */
-  /* flex: 1; */
   background-color: #F9FAF8;
 }
 
